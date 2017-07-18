@@ -1,0 +1,18 @@
+{
+  "name": "dslete",
+  "version": "1.0.0",
+  "description": "Deletes those pesky `.DS_Store` files!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DS_Store"
+  ],
+  "author": "Alice Maldonado",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "rimraf": "^2.6.1"
+  }
+}
